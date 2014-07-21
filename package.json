@@ -1,0 +1,19 @@
+{
+  "name": "myexpress",
+  "version": "0.0.0",
+  "description": "Building The Express App",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "express"
+  ],
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "chai": "^1.9.1",
+    "supertest": "^0.10.0"
+  },
+  "author": "steven",
+  "license": "MIT"
+}
